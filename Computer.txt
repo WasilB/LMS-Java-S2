@@ -1,0 +1,24 @@
+1. Introduction to Algorithms is a book on computer programming by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
+Originally published: 1989.
+2. Code: The Hidden Language of Computer Hardware and Software is a book by Charles Petzold that seeks to teach how personal computers work at a hardware and software level.
+Originally published: October 23, 1999.
+3. Algorithms to Live By: The Computer Science of Human Decisions
+A fascinating exploration of how computer algorithms can be applied to our everyday lives. In this dazzlingly interdisciplinary work, acclaimed author Brian Christian and cognitive scientist Tom Griffiths show us how the simple, precise algorithms used by computers can also untangle very human questions.
+Originally published: April 19, 2016
+4. Structure and Interpretation of Computer Programs is a computer science textbook by Massachusetts Institute of Technology professors Harold Abelson and Gerald Jay Sussman with Julie Sussman. It is known as the Wizard Book in hacker culture.
+Originally published: 1985
+5. The C Programming Language is a computer programming book written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the language, as well as co-designed the Unix operating system with which development of the language was closely intertwined.
+Originally published: 1978
+6. Clean code
+Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way
+Originally published: August 1, 2008
+7. Gödel, Escher, Bach: an Eternal Golden Braid, also known as GEB, is a 1979 book by Douglas Hofstadter. By exploring common themes in the lives and works of logician Kurt Gödel, artist M. C. Escher, and composer Johann Sebastian Bach, the book expounds concepts fundamental to mathematics, symmetry, and intelligence.
+Originally published: 1979
+8. The Elements of Computing Systems: Building a Modern Computer from First Principles (Textbook by Noam Nisan and Shimon Schocken)
+Originally published: 2005
+9. Algorithms
+Algorithms is a book written by Robert Sedgewick and Kevin Wayne. This book covers all the most important computer algorithms currently in use. The book teaches you searching, sorting, graph processing, and string processing.
+Book by Robert Sedgewick
+Originally published: 1983
+10. Code Complete is a software development book, written by Steve McConnell and published in 1993 by Microsoft Press, encouraging developers to continue past code-and-fix programming and the big design up front and waterfall models.
+Originally published: 1993

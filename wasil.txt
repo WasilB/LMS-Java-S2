@@ -1,0 +1,12 @@
+Name: wasil
+Sap ID: 23703
+Department: BSCS
+
+Book Issued:5. The C Programming Language
+*******************************************************************************************************************************
+Name: 23
+Sap ID: 23
+Department: 23
+
+Book Issued:3. Algorithms to Live By: The Computer Science of Human Decisions
+*******************************************************************************************************************************

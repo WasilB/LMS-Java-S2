@@ -1,0 +1,63 @@
+1. The Goal: A Process of Ongoing Improvement
+
+Author: Eliyahu Goldratt
+
+Although this book has a manufacturing focus, it’ll have any engineer thinking about efficiency and design. It focuses on the Theory of Constraints and bottlenecks but presents the information in a digestible way, as it’s written as a piece of fiction. The main character is Alex Rogo who manages a production plant where schedules are a problem and he’s tasked with turning the operations around in a short space of time. It is especially relevant if you work in industry or manufacturing, but also if your role includes any type of process change and improvement.
+
+2. The Design of Everyday Things
+
+Author: Donald Norman
+
+A book that’s predominantly about product design, it was written many years ago yet still holds just as much importance today. It explains why things are designed the way they are and how to make useful products. Written by cognitive scientist Donald Norman and since revised, it shows how purely aesthetic design can sometimes ruin the way products work and emphasises the importance of user experience and functionality. Relevant for engineers involved in making anything, from bridges to apps.
+
+3. The Existential Pleasures of Engineering
+
+Author: Samuel Florman
+
+A look at how engineers view their profession and the creative and practical philosophy of engineering. Engineering is often perceived as cold and void of passion, but this book shows the deep and rich rewards of the profession. The book celebrates the fact that engineering is almost a primal instinct and that engineers build things with humanity in mind.
+
+4. Skunk Works: A Personal Memoir of My Years at Lockheed
+
+Author: Ben Rich
+
+If you didn’t know already, the Skunk Works is Lockheed Martin’s famous group that works on some of the most pioneering technology and aircraft, often veiled in secrecy. The group was found by Kelly Johnson who led the designs for 40 civilian and military aircraft, including the U-2 and the SR-71 Blackbird. Ben Rich was the boss of the Skunk Works for nearly two decades and his book recounts the brilliant stories of the group, which inevitably tells countless stories of extraordinary engineering achievements, including the production of the F-117 stealth aircraft, which Rich oversaw.
+
+5. Why Buildings Fall Down
+
+Authors: Mario Salvadori & Marco Levy
+
+Although the focus of this book is on structural engineering, and specifically the various reasons buildings have failed, it also analyses the interactions between people, nature and materials. Each chapter takes on a different theme and analyses case studies of failure and also success, but the underlying theme of the book is the emphasis on the necessity to learn from past mistakes as not to repeat them, and is thus an essential read for all engineers, no matter the discipline.
+
+6. Engineering in the Mind’s Eye
+
+Author: Eugene Ferguson
+
+Highlighting that good engineering is not only about computation and equations but also nonverbal and intuitive thinking, Eugene Ferguson’s book argues that engineering education that ignores these elements will produce engineers that are not fit to tackle real world problems given their differences from academic mathematical problems. To design a machine fit for the real world is not the same as the one solution there is to a mathematical problem. He emphasises the need for using real-world experience and practical thinking along with the ability to be creative and to portray solutions.
+
+7. The Seven Habits of Highly Effective People
+
+Author: Stephen R Covey
+
+First published in 1989, Stephen Covey’s business and self-help book will help any engineer master the basic skills they need to succeed. The 7 habits introduce the maturity continuum, the three successive stages of increasing maturity and as Coveys writing is so easy to read and understand, anyone can delve into a deeper understanding of his work.
+
+Once you have finished with this Covey wrote a follow up called The 8th Habit: From Effectiveness to Greatness, further reinforcing his earlier points from his first book and introducing some new concepts.
+
+8. Unwritten Laws of Engineering: With Revisions and Additions
+
+Author: W. J. King
+
+This updated version of the 1944 classic irons out a professional code that should be adopted by all engineers looking to succeed in the industry. This is the perfect book for those looking to transition seamlessly from academia to industry and provides timeless advice and guidance for several topics. This “code of conduct” was gathered by actual engineers from their industry experiences, however, this book is not just limited to those in the engineering industry, managers and leaders in a variety of fields could stand to learn a lot from this excellent book.
+
+9. The Four Hour Chef
+
+Author: Tim Ferriss
+
+You are probably wondering why we are recommending a cookbook for engineers. Well, this is not your ordinary cookbook; Tim Ferriss manages to take a complicated process and make it manageable. As an engineer, you will be dealing with complicated processes daily, in every aspect of your life. 
+
+The 4 –hour chef is a five stop journey through the art and science of learning. Not only is this a guide to mastering cooking but a guide to mastering life. This book provides some key ideas for tackling complicated problems and makes the task of learning new and difficult concepts that little bit easier.
+
+10. She Engineers: Outsmart Bias, Unlock your Potential, and Create the Engineering Career of your Dreams
+
+Author: Stephanie Slocum
+
+As you would expect from the title, this book is written for female engineers and goes beyond the general social commentary on gender issues in engineering. As a fifteen-year engineering industry veteran, Slocum teaches aspiring female engineers how to succeed in an industry that is so often dominated by men. Don’t just take our word for it though, She Engineers has overwhelmingly positive reviews on all the major online retailers and continues to be popular today.
